@@ -1,0 +1,21 @@
+# My Streamlit App
+
+This repository contains a Streamlit app that analyzes sales data.
+
+## Data Files
+
+To run the app locally, you'll need to download the following data files:
+
+- `customer_data_1.csv`: Contains customer data.
+- `sales_data.xlsx`: Contains sales data.
+
+You can download the data files from [Google Drive](https://drive.google.com/file/d/1k0hZB6DuH6dOwqAmHatIIJsqGzkZZE8v/view?usp=sharing) 
+
+Make sure to place the data files in the `data` directory before running the app.
+
+## Running the App
+
+To run the Streamlit app, use the following command:
+
+```bash
+streamlit run app.py
